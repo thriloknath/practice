@@ -1,2 +1,4 @@
+
 this is my new text file
-modify text
+
+modified by branchB
